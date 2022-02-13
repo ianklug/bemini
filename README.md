@@ -41,7 +41,7 @@ If they are not currently on sale, or you have modified the design, you may wish
 
 **Please note that most PCB manufacturers have a minimum order quantity of five units.**
 
-Hand-soldering Beminis from scratch is technically possible for the AU variant, but is extremely difficult and NOT recommended due to the small size of the surface-mount components and their pads. Instead, PCB assembly services can source and assemble all the small parts on the bottom of the board. Depending on the manufacturer, you may only need to hand-solder some of the larger parts, such as the USB port and the switches or switch sockets.
+Hand-soldering Beminis from scratch is technically possible for the AU variant, but is extremely difficult and NOT recommended due to the small size of the surface-mount components and their pads. Instead, PCB assembly services can source and assemble all the small parts on the bottom of the board. Depending on the manufacturer, you may only need to hand-solder some of the larger parts, such as the USB port and the switch sockets.
 
 I can personally recommend [JLCPCB](https://jlcpcb.com) or [PCBWay](https://pcbway.com/), but most PCB manufacturers should be capable of producing Bemini.
 
