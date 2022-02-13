@@ -51,7 +51,7 @@ If you will be ordering from JLCPCB, use `<variation>-gerbers-jlcpcb-v1.zip`. Th
 
 Production Beminis are two-layer FR4, 1.6mm thick, and measure 118x23mm. BOM and Centroid files are present for each board in the format expected by JLCPCB.
 
-The USB connector is a [GCT USB4085](https://gct.co/connector/usb4085). The hot-swap sockets are [Kailh sockets](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/mechanical-keyboard-switches-kailh-pcb-socket.html). The encoder sockets are [Mill-Max 3305 receptacles](https://www.mill-max.com/products/receptacle/3305). The encoder is an [Alps EC12 Hollow Shaft](https://tech.alpsalpine.com/prod/e/html/encoder/incremental/ec12e/ec12e_list.html). You probably also want to add rubber or silicone feet to stabilize your Bemini and prevent it from slipping. The production models use four 6x2mm circular bumpers.
+The USB connector is a [GCT USB4085](https://gct.co/connector/usb4085). The hot-swap sockets are [Kailh sockets](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/mechanical-keyboard-switches-kailh-pcb-socket.html). The encoder sockets are [Mill-Max 3305 receptacles](https://www.mill-max.com/products/receptacle/3305). The encoder is an [Alps EC12](https://tech.alpsalpine.com/prod/e/html/encoder/incremental/ec12e/ec12e_list.html). You probably also want to add rubber or silicone feet to stabilize your Bemini and prevent it from slipping. The production models use four 6x2mm circular bumpers.
 
 ## License
 
