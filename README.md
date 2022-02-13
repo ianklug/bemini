@@ -5,7 +5,7 @@ A miniature mechanical keyboard controller with a rotary encoder for staggered k
 
 Design by [ianklug](https://ianklug.com). Art by [clue](https://clue.graphics).
 
-Made with KiCad and Blender.
+Made with [KiCad](https://www.kicad.org/) and [Blender](https://www.blender.org/).
 
 *Please clone this repository using the `--recurse-submodules` flag. Many of the required symbol and footprint libraries will not be included otherwise.*
 
@@ -17,7 +17,7 @@ There are two variations of Bemini - MU and AU. It is often difficult to find th
 
 Bemini is powered by [QMK Firmware](https://qmk.fm).
 
-You may customize Bemini's keymap by following the instructions in [(these documents)](https://docs.qmk.fm). This will require a reflash of your board's firmware. Use [QMK Toolbox](https://github.com/qmk/qmk_toolbox) to flash if on Windows or MacOS, or the QMK CLI with avrdude on Linux. Press the button on the back of the board to enter bootloader mode.
+You may customize Bemini's keymap by following the instructions in [these documents](https://docs.qmk.fm). This will require a reflash of your board's firmware. Use [QMK Toolbox](https://github.com/qmk/qmk_toolbox) to flash if on Windows or MacOS, or the QMK CLI with avrdude on Linux. Press the button on the back of the board to enter bootloader mode.
 
 More information about the default keymap is available [here](https://kayboards.com/pages/bemini-keymap).
 
