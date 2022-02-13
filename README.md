@@ -1,5 +1,5 @@
 # Bemini
-A mechanical keyboard for rhythm games.
+A miniature mechanical keyboard controller with a rotary encoder for staggered key rhythm games.
 
 ![Bemini PCB](https://i.imgur.com/Y5NZjzr.jpg)
 
