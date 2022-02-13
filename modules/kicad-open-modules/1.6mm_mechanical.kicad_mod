@@ -1,0 +1,9 @@
+(module 1.6mm_mechanical (layer F.Cu) (tedit 5A5766C1)
+  (fp_text reference REF** (at 0 1.26) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text value 1mm_mechanical (at 0 -1.24) (layer F.Fab)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (pad "" np_thru_hole circle (at 0 0) (size 1.6 1.6) (drill 1.6) (layers *.Cu *.Mask))
+)

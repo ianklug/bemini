@@ -1,0 +1,13 @@
+(module OLD:SHIELD_1272 (layer F.Cu)
+  (fp_text reference SHIELD_1272 (at 6.541 -11.481) (layer F.SilkS)
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value VAL** (at 2.477 10.82) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.25)))
+  )
+  (pad 1 smd oval (at 0.015 6.441) (size 1.5 10.2) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd oval (at 0.009 -4.831) (size 1.5 6.2) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd oval (at 15.507 10.795) (size 32.5 1.5) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd oval (at 31.001 1.803) (size 1.5 19.5) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd oval (at 15.507 -7.188) (size 32.5 1.5) (layers F.Cu F.Paste F.Mask))
+)

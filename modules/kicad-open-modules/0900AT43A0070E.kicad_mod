@@ -1,0 +1,36 @@
+(module 0900AT43A0070E (layer F.Cu) (tedit 5D63D7B2)
+  (fp_text reference REF** (at 0 -1.49) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text value 0900AT43A0070E (at 0.05 1.44) (layer F.Fab)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_line (start -2.8 -0.9) (end 2.8 -0.9) (layer F.SilkS) (width 0.15))
+  (fp_line (start -2.8 0.9) (end 2.8 0.9) (layer F.SilkS) (width 0.15))
+  (fp_line (start -2.5 -0.25) (end -2.5 0.25) (layer F.SilkS) (width 0.15))
+  (fp_line (start -0.75 -0.25) (end -0.75 0.25) (layer F.SilkS) (width 0.15))
+  (fp_line (start -2.5 -0.25) (end -0.75 -0.25) (layer F.SilkS) (width 0.15))
+  (fp_line (start -2.5 0.25) (end -0.75 0.25) (layer F.SilkS) (width 0.15))
+  (pad 1 smd rect (at -3.5 0) (size 1 1.8) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd custom (at 3.7 0) (size 1.4 1.8) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+    ))
+  (pad 2 smd custom (at 4.15 -1.15) (size 0.5 0.5) (layers F.Cu)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.25 0) (xy 0.25 0) (xy 0.25 -22.25) (xy -0.25 -22.25)) (width 0))
+      (gr_poly (pts
+         (xy 0.25 -22.25) (xy -1.25 -22.25) (xy -1.25 -21.75) (xy 0.25 -21.75)) (width 0))
+      (gr_poly (pts
+         (xy -1.25 -22.25) (xy -1.25 -15.75) (xy -0.75 -15.75) (xy -0.75 -22.25)) (width 0))
+    ))
+  (model ${KICAD_OPEN_3D}/0900AT43A0070.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

@@ -1,0 +1,20 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,4.7nF,C_0402,55.279,-56.789,0,bottom
+C2,1uF,C_0402,59.736,-50.372,90,bottom
+C3,0.1uF,C_0402,65.136,-48.872,0,bottom
+C4,0.1uF,C_0402,64.7,-59.6,0,bottom
+C5,0.1uF,C_0402,71.1,-59.6,180,bottom
+C6,10uF,C_0402,71.1,-50,180,bottom
+C7,22pF,C_0402,66.236,-43.272,90,bottom
+C8,22pF,C_0402,71.436,-43.272,270,bottom
+F1,500mA,Fuse_0805,60.9,-59.1,180,bottom
+R1,1M,R_0402,55.279,-52.725,0,bottom
+R2,5.1k,R_0402,55.279,-54.757,0,bottom
+R3,5.1k,R_0402,59.436,-52.772,270,bottom
+R4,22,R_0402,59.436,-54.572,90,bottom
+R5,22,R_0402,59.436,-56.372,90,bottom
+R6,10k,R_0402,65.036,-49.972,180,bottom
+R7,10k,R_0402,72.6,-57.9,90,bottom
+S1,SW_Push,TS-1187A-B-A-B,58.836,-46.872,180,bottom
+U1,ATmega32U4-MU,QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm,67.84,-54.87,0,bottom
+X1,16MHz,Crystal_SMD_3225-4pin_3.2x2.5mm,68.836,-43.272,180,bottom
