@@ -31,7 +31,7 @@ The encoder retainer should be printed with the flat part facing down. No suppor
 
 ## Ordering
 
-Beminis are sometimes available for direct purchase at [my web store](https://kayboards.com/products/bemini). As of May 2022, they are actively being produced, although sourcing parts is very difficult at the moment so there is no specific timeline for availability. For stock updates, please subscribe to the newsletter available at the bottom of the store page.
+Beminis are sometimes available for direct purchase at [my web store](https://kayboards.com/products/bemini). As of June 2022, they are actively being produced, although sourcing parts is very difficult at the moment so there is no specific timeline for availability. For stock updates, please subscribe to the newsletter available at the bottom of the store page.
 
 If they are not currently on sale, or you have modified the design, you may wish to manufacture them yourself.
 
@@ -51,7 +51,7 @@ If you will be ordering from JLCPCB, use `<variation>-gerbers-jlcpcb-v1.zip`. Th
 
 Production Beminis are two-layer FR4, 1.6mm thick, and measure 200x65mm. BOM and Centroid files are present for each board in the format expected by JLCPCB.
 
-The USB connector is a [GCT USB4085](https://gct.co/connector/usb4085). The hot-swap sockets are [Kailh sockets](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/mechanical-keyboard-switches-kailh-pcb-socket.html). The encoder sockets are [Mill-Max 3305 receptacles](https://www.mill-max.com/products/receptacle/3305). The encoder is a [Bourns PES12](https://www.bourns.com/pdfs/pes12.pdf). An [Alps EC12](https://tech.alpsalpine.com/prod/e/html/encoder/incremental/ec12e/ec12e_list.html) will also work. You probably also want to add rubber or silicone feet to stabilize your Bemini and prevent it from slipping. The production models use four 8mm circular bumpers.
+The USB connector is a [GCT USB4085](https://gct.co/connector/usb4085). The hot-swap sockets are [Kailh sockets](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/mechanical-keyboard-switches-kailh-pcb-socket.html). The encoder sockets are [Mill-Max 3305 receptacles](https://www.mill-max.com/products/receptacle/3305). The encoder is a [Bourns PES12](https://www.bourns.com/pdfs/pes12.pdf) low-profile encoder with no detents. An [Alps EC12](https://tech.alpsalpine.com/prod/e/html/encoder/incremental/ec12e/ec12e_list.html) will also work, although I believe all Alps low-profile models have detents. You will probably also want to add rubber or silicone feet to stabilize your Bemini and prevent it from slipping. The production models use four 8mm circular bumpers.
 
 ## License
 
