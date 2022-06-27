@@ -7,7 +7,7 @@ Design by [ianklug](https://ianklug.com). Art by [clue](https://clue.graphics).
 
 Made with [KiCad](https://www.kicad.org/) and [Blender](https://www.blender.org/).
 
-[View the product page and description here at Kayboards.](https://kayboards.com/products/bemini).
+[View the product page and description here at Kayboards](https://kayboards.com/products/bemini).
 
 *Please clone this repository using the `--recurse-submodules` flag. Many of the required symbol and footprint libraries will not be included otherwise.*
 
