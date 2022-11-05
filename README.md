@@ -9,7 +9,7 @@ Special thanks to [Sebastiaan Swinkels](https://github.com/C44Supra) for technic
 
 Made with [KiCad](https://www.kicad.org/) and [Blender](https://www.blender.org/).
 
-*Please clone this repository using the `--recurse-submodules` flag. Many of the required symbol and footprint libraries will not be included otherwise.*
+*Please clone this repository using the `--recurse-submodules` flag. Some of the required symbol and footprint libraries will not be included otherwise.*
 
 ## Versions
 
