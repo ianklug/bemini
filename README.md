@@ -33,7 +33,7 @@ The .stl files for Bemini's 3D-printed parts are included in the models director
 
 The newer turntable (v2) is a single piece, and requires no supports. It should be printed with the top facing down. Infill should be at least 15%. This is the recommended version.
 
-The first turntable (v1) prints in two pieces (main and cap). This may improve the quality of some of the touch surfaces if your prints are inconsistent. Print with the flat top of the cap facing down, and the flat ring (the bottom) of the main body facing down. The body will require supports.
+The first turntable (v1) prints in two pieces (main and cap) which snap together. This may improve the quality of some of the touch surfaces if your prints are inconsistent. Print with the flat top of the cap facing down, and the flat ring (the bottom) of the main body facing down. The body will require supports.
 
 The encoder retainer should be printed with the flat part facing down. Slide this piece in between the encoder's legs on the underside of the board to secure the encoder, if you do not wish to solder it in place.
 
@@ -59,7 +59,7 @@ If you will be ordering from JLCPCB, use `<variation>-gerbers-jlcpcb-<version>.z
 
 Production Beminis are two-layer FR4, 1.6mm thick. The RP2040 versions measure 220x70mm. They are assembled using lead-free solder. BOM and Centroid files are present for each board in the format expected by JLCPCB.
 
-The USB connector is a [GCT USB4085](https://gct.co/connector/usb4085). The hot-swap sockets are [Kailh sockets](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/mechanical-keyboard-switches-kailh-pcb-socket.html). The encoder sockets are [Mill-Max 3305 receptacles](https://www.mill-max.com/products/receptacle/3305). The encoder is a [Bourns PES12](https://www.bourns.com/pdfs/pes12.pdf). An [Alps EC12](https://tech.alpsalpine.com/prod/e/html/encoder/incremental/ec12e/ec12e_list.html) or other EC12 series encoders will also work. The RGB LED is a WS2812B.
+The USB connector is a [GCT USB4085](https://gct.co/connector/usb4085). The hot-swap sockets are [Kailh sockets](https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/mechanical-keyboard-switches-kailh-pcb-socket.html). The encoder sockets are [Mill-Max 3305 receptacles](https://www.mill-max.com/products/receptacle/3305). The encoder is a [Bourns PES12](https://www.bourns.com/pdfs/pes12.pdf). An [Alps EC12E](https://tech.alpsalpine.com/e/products/category/encorder/sub/02/series/ec12e/) will also work. The RGB LED is a WS2812B.
 
 ## License
 
