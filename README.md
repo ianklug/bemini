@@ -13,7 +13,7 @@ Made with [KiCad](https://www.kicad.org/) and [Blender](https://www.blender.org/
 
 ## Versions
 
-*Please note that the RP2040 models are currently PROTOTYPES and are not yet validated for production.*
+*Please note that the RP2040 models are functional at a hardware level, but software is incomplete.*
 
 The 2.x versions (bemini-rp) use the RP2040 MCU, and require different firmware from the 1.x versions. They also include a few new features and refinements over the 1.x models, including M2 mounting holes and an RGB indicator LED.
 
@@ -36,12 +36,6 @@ The newer turntable (v2) is a single piece, and requires no supports. It should 
 The first turntable (v1) prints in two pieces (main and cap) which snap together. This may improve the quality of some of the touch surfaces if your prints are inconsistent. Print with the flat top of the cap facing down, and the flat ring (the bottom) of the main body facing down. The body will require supports.
 
 The encoder retainer should be printed with the flat part facing down. Slide this piece in between the encoder's legs on the underside of the board to secure the encoder, if you do not wish to solder it in place.
-
-## Ordering
-
-Beminis are sometimes available for direct purchase at [my web store](https://kayboards.com/products/bemini). As of 2022, they are actively being produced, although there is no specific timeline for availability. For stock updates, please subscribe to the newsletter available at the bottom of the store page.
-
-If they are not currently on sale, or you have modified the design, you may wish to manufacture them yourself.
 
 ## Manufacturing
 
